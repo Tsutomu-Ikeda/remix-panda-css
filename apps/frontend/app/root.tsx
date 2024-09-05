@@ -8,7 +8,6 @@ import {
 } from "@remix-run/react";
 import styles from "./index.css?url"
 import { styled } from "@styled-system/jsx";
-import "./tailwind.css";
 
 const Button = styled("button", {
   base: {
